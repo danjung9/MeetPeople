@@ -1,0 +1,6 @@
+[00:00:04.420] Server  LOG     ✓ Ready in 4s
+[00:00:05.701] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:57.266] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:09.205] Browser ERROR   unhandledRejection: TypeError: NetworkError when attempting to fetch resource.
+[00:03:39.226] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:56.489] Server  LOG     ✓ Compiled in 258ms
