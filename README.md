@@ -4,7 +4,7 @@ Full-stack demo that reimplements a personalized "For You" ranking pipeline insp
 
 - Next.js (TypeScript) frontend mirroring X: home feed, profiles, trends, notifications
 - Python FastAPI backend with a tunable ranking pipeline and explainability
-- LangChain-powered persona + content generation
+- OpenAI-powered persona + content generation
 - SQLite persistence for personas, posts, engagements, and follows
 
 ## Quick Start (dev)
