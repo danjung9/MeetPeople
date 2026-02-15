@@ -1,6 +1,6 @@
 # X Recommend Demo
 
-Hackathon-level full-stack demo that reimplements a personalized "For You" ranking pipeline inspired by the open-sourced X architecture. It includes:
+Full-stack demo that reimplements a personalized "For You" ranking pipeline inspired by the open-sourced X architecture. It includes:
 
 - Next.js (TypeScript) frontend mirroring X: home feed, profiles, trends, notifications
 - Python FastAPI backend with a tunable ranking pipeline and explainability
