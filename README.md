@@ -1,10 +1,10 @@
-# X Recommend Demo
+# Recommendation System Demo
 
-Hackathon-level full-stack demo that reimplements a personalized "For You" ranking pipeline inspired by the open-sourced X architecture. It includes:
+Full-stack demo that reimplements a personalized "For You" ranking pipeline inspired by the open-sourced X architecture. It includes:
 
-- Next.js (TypeScript) frontend mirroring X: home feed, profiles, trends, notifications
+- Next.js (TypeScript) frontend: home feed, profiles, trends, notifications
 - Python FastAPI backend with a tunable ranking pipeline and explainability
-- LangChain-powered persona + content generation
+- OpenAI-powered persona + content generation
 - SQLite persistence for personas, posts, engagements, and follows
 
 ## Quick Start (dev)
